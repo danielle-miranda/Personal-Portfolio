@@ -405,6 +405,7 @@ section {
   margin-bottom: 30px;
 }
 
+/*-------------------------Portfolio Filters--------------------
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 25px auto;
@@ -436,7 +437,7 @@ section {
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
 }
-
+*/
 .portfolio .portfolio-wrap {
   transition: 0.3s;
   position: relative;
@@ -508,13 +509,6 @@ section {
   font-weight: 600;
 }
 
-.portfolio .portfolio-wrap .portfolio-info p {
-  color: #45505b;
-  font-size: 14px;
-  text-transform: uppercase;
-  padding: 0;
-  margin: 0;
-}
 
 .portfolio .portfolio-wrap .portfolio-links {
   text-align: center;
