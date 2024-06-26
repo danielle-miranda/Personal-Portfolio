@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   color: #272829;
 }
 
@@ -30,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -306,7 +306,7 @@ h6 {
   color: #45505b;
   margin: 15px 0 0 0;
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 #hero p span {
@@ -768,7 +768,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
 }
